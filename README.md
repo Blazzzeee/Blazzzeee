@@ -6,13 +6,6 @@
 <img height="auto" src="https://komarev.com/ghpvc/?username=Blazzzee&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
 
-
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
-
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Blazzzee&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
-
 - Creator of [Wifi menu GUI](https://github.com/Blazzzeee/network_manager_ui)
 
 - Created [Scalable Codechef Crawler](https://github.com/Blazzzeee/Codechef_scrapper_scrappy)
