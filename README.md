@@ -29,13 +29,13 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Blazzzee&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Blazzzeee&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Blazzzee&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Blazzzeee&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazzzee&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazzzeee&theme=dark&hide_border=false" alt="profile-radme-generator" />
 
