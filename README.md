@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Frontend Frameworks**
 
-- 💬 Ask me about **Django, Flask or Linux**
+- 💬 Ask me about **Django, Flask Linux, Web Scrapping or Backend Development **
 
 - 📫 How to reach me **maanikhurana1007@gmail.com**
 
