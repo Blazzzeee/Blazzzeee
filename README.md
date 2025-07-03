@@ -29,10 +29,13 @@
   📊 [Wifi login GUI](https://github.com/Blazzzeee/web_automation) - [idk] | Wifi login app with heay optimisations and profiling <br/>
   📊 [RSS_FEEDS](https://github.com/Blazzzeee/RSSFeed) - [SCRAPPING] | RSS news feed scrapping with decoupled design <br/>
   📊 [Artistly](https://github.com/Blazzzeee/artistly) - [UI/UX] | ReactJS UI/UX Web App , Built for artist discovery and onboarding <br/>
+  📊 [TRADING](https://github.com/Blazzzeee/binance-bot) - [BOT] | Binance dummy trading bot built with web scrapping <br/>
+  📊 [QUIZ-CLI](https://github.com/Blazzzeee/CSharp-QuizApp) - [MISC] | Simple CLI Quiz App for learning purposes <br/>
+  📊 [LIB](https://github.com/Blazzzeee/DynamicStockPriceAlerts) - [MISC] | Decoupled Event Driven Stock Alert Library <br/>
+  📊 [AUTOMATION](https://github.com/Blazzzeee/Bard-Gemini-Gmail-Integration) - [AUTO] | Script to automate Email drafts from Gmail labels <br/>
+  📊 [GAME](https://github.com/Blazzzeee/tic-tac-toe) - [Scripting] | Fairly Simple Game tic-tac-toe for learning purposes <br/>
+  📊 [GAME](https://github.com/Blazzzeee/Blackjack) - [Scripting] | Fairly Simple Blackjack Game for learning purposes <br/>
 
-  
-
-  
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blazzzeee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
