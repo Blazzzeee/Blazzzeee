@@ -19,10 +19,18 @@
 ![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 # 📊 Projects:
-  📊[Network_manager_ui](https://github.com/Blazzzeee/network_manager_ui) | [Flagship] Built for Linux , hassle free network management <br/>
-  📊[Studybud](https://github.com/Blazzzeee/studybud) - [Full Stack] | Peer to Peer Learning made better , with elegant UI <br/>
-  📊[LoanApp](https://github.com/Blazzzeee/loanapp_rest) - [REST_API] | Data indigestion and Complex buisness logic <br/>
-  Wait there's more ~
+  📊 [Network_manager_ui](https://github.com/Blazzzeee/network_manager_ui) | [Flagship] Built for Linux , hassle free network management <br/>
+  📊 [Studybud](https://github.com/Blazzzeee/studybud) - [Full Stack] | Peer to Peer Learning made better , with elegant UI <br/>
+  📊 [LoanApp](https://github.com/Blazzzeee/loanapp_rest) - [REST_API] | Data indigestion and Complex buisness logic <br/>
+  📊 [Poll Chat server](https://github.com/Blazzzeee/web_automation) - [SOCKETS] | Synchronous UDP Chat server built from system api (<sys/sockets.h>) <br/>
+
+  Wait there's more ~ <br/>
+  📊 [CodeCgef Scrapper](https://github.com/Blazzzeee/cf_crappy) - [DATA Pipeline] | JS rendered content scrapping with proxy and middlewares <br/>
+  📊 [Wifi login GUI](https://github.com/Blazzzeee/web_automation) - [idk] | Wifi login app with heay optimisations and profiling <br/>
+  
+  
+
+  
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blazzzeee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
