@@ -19,8 +19,9 @@
 ![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 # 📊 Projects:
-### Network_manager_ui - [Flagship] Built for Linux , hassle free network management 
-### Studybud - [Full Stack] - Peer to Peer Learning made better , with elegant UI
+  📊[Network_manager_ui](https://github.com/Blazzzeee/network_manager_ui) | [Flagship] Built for Linux , hassle free network management 
+  📊[Studybud](https://github.com/Blazzzeee/studybud) - [Full Stack] | Peer to Peer Learning made better , with elegant UI
+  📊[LoanApp](https://github.com/Blazzzeee/loanapp_rest) - [REST_API] | Data indigestion and Complex buisness logic
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blazzzeee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -33,4 +34,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Blazzzeee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
