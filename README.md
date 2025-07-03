@@ -22,23 +22,23 @@
 ![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 # 📊 Projects (15):
-  📊 [Network_manager_ui](https://github.com/Blazzzeee/network_manager_ui) | [Flagship] Built for Linux , hassle free network management {system app} , backend + frontend  <br/>
-  📊 [Studybud](https://github.com/Blazzzeee/studybud) - [Full Stack] | Peer to Peer Learning made better , with elegant UI <br/>
-  📊 [LoanApp](https://github.com/Blazzzeee/loanapp_rest) - [REST_API] | Data indigestion and Complex buisness logic <br/>
-  📊 [Poll Chat server](https://github.com/Blazzzeee/web_automation) - [SOCKETS] | Synchronous UDP Chat server built from system api (<sys/sockets.h>) <br/>
+   [Network_manager_ui](https://github.com/Blazzzeee/network_manager_ui) | [Flagship] Built for Linux , hassle free network management {system app} , backend + frontend  <br/>
+   [Studybud](https://github.com/Blazzzeee/studybud) - [Full Stack] | Peer to Peer Learning made better , with elegant UI <br/>
+   [LoanApp](https://github.com/Blazzzeee/loanapp_rest) - [REST_API] | Data indigestion and Complex buisness logic <br/>
+   [Poll Chat server](https://github.com/Blazzzeee/web_automation) - [SOCKETS] | Synchronous UDP Chat server built from system api (<sys/sockets.h>) <br/>
 
   Wait there's more ~ <br/>
-  📊 [CodeChef Scrapper](https://github.com/Blazzzeee/cf_crappy) - [DATA Pipeline] | JS rendered content scrapping with proxy and middlewares <br/>
-  📊 [Wifi login GUI](https://github.com/Blazzzeee/web_automation) - [idk] | Wifi login app with heay optimisations and profiling <br/>
-  📊 [CONFIG](https://github.com/Blazzzeee/config.nvim) - [NVIM] | Maintaining my own IDE or PDE , how i like it :D <br/>
-  📊 [RSS_FEEDS](https://github.com/Blazzzeee/RSSFeed) - [SCRAPPING] | RSS news feed scrapping with decoupled design <br/>
-  📊 [Artistly](https://github.com/Blazzzeee/artistly) - [UI/UX] | ReactJS UI/UX Web App , Built for artist discovery and onboarding <br/>
-  📊 [TRADING](https://github.com/Blazzzeee/binance-bot) - [BOT] | Binance dummy trading bot built with web scrapping <br/>
-  📊 [QUIZ-CLI](https://github.com/Blazzzeee/CSharp-QuizApp) - [MISC] | Simple CLI Quiz App for learning purposes <br/>
-  📊 [LIB](https://github.com/Blazzzeee/DynamicStockPriceAlerts) - [MISC] | Decoupled Event Driven Stock Alert Library <br/>
-  📊 [AUTOMATION](https://github.com/Blazzzeee/Bard-Gemini-Gmail-Integration) - [AUTO] | Script to automate Email drafts from Gmail labels <br/>
-  📊 [GAME](https://github.com/Blazzzeee/tic-tac-toe) - [Scripting] | Fairly Simple Game tic-tac-toe for learning purposes <br/>
-  📊 [GAME](https://github.com/Blazzzeee/Blackjack) - [Scripting] | Fairly Simple Blackjack Game for learning purposes <br/>
+   [CodeChef Scrapper](https://github.com/Blazzzeee/cf_crappy) - [DATA Pipeline] | JS rendered content scrapping with proxy and middlewares <br/>
+   [Wifi login GUI](https://github.com/Blazzzeee/web_automation) - [idk] | Wifi login app with heay optimisations and profiling <br/>
+   [CONFIG](https://github.com/Blazzzeee/config.nvim) - [NVIM] | Maintaining my own IDE or PDE , how i like it :D <br/>
+   [RSS_FEEDS](https://github.com/Blazzzeee/RSSFeed) - [SCRAPPING] | RSS news feed scrapping with decoupled design <br/>
+   [Artistly](https://github.com/Blazzzeee/artistly) - [UI/UX] | ReactJS UI/UX Web App , Built for artist discovery and onboarding <br/>
+   [TRADING](https://github.com/Blazzzeee/binance-bot) - [BOT] | Binance dummy trading bot built with web scrapping <br/>
+   [QUIZ-CLI](https://github.com/Blazzzeee/CSharp-QuizApp) - [MISC] | Simple CLI Quiz App for learning purposes <br/>
+   [LIBRARY](https://github.com/Blazzzeee/DynamicStockPriceAlerts) - [MISC] | Decoupled Event Driven Stock Alert Library <br/>
+   [AUTOMATION](https://github.com/Blazzzeee/Bard-Gemini-Gmail-Integration) - [AUTO] | Script to automate Email drafts from Gmail labels <br/>
+   [GAME](https://github.com/Blazzzeee/tic-tac-toe) - [Scripting] | Fairly Simple Game tic-tac-toe for learning purposes <br/>
+   [GAME](https://github.com/Blazzzeee/Blackjack) - [Scripting] | Fairly Simple Blackjack Game for learning purposes <br/>
   
   
 # 📊 GitHub Stats:
