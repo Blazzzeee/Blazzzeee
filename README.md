@@ -1,4 +1,5 @@
 # 💫 About Me: <img height="auto" src="https://komarev.com/ghpvc/?username=Blazzzee&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+🔭 Project based learner , with deep intrest in System Design , Tech Debates , public speaking and building suckless software <br>
 🔭 I’m currently working on my portfolio website<br>👯 I’m looking to collaborate on Linux and open source<br>💬 Ask me about Linux , Backend and System Design
 
 
