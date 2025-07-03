@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: [![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/repositories-views-counter)
 🔭 I’m currently working on my portfolio website<br>👯 I’m looking to collaborate on Linux and open source<br>💬 Ask me about Linux , Backend and System Design
 
 
