@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/maanik-khurana-0298b4296) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maanikhurana1007@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maanikhurana1007@gmail.com) 
 
 # 💻 Tech Stack:
 ## Databases:
